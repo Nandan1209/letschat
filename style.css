@@ -1,0 +1,11 @@
+html,body{
+  margin: 0;
+  height: 100%;
+  text-align: center;
+}
+body { 
+  background-image: linear-gradient(to right top, red, blue, green, orange, silver); 
+}
+center{
+  text-align: center;
+}
